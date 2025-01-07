@@ -10,7 +10,6 @@
 💻 Currently exploring advanced Flask and Django applications.
 
 ## 🚀 Interests
-- Building efficient and scalable web applications.
 - Automating daily tasks using Python.
 - Learning and experimenting with Machine Learning and Data Visualization.
 
