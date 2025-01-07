@@ -15,7 +15,7 @@
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, Bash, SQL ,Java
-- **Web Frameworks:** Flask, Django
+- **Web Frameworks:**  Django
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Version Control:** Git, GitHub
 - **Aplication Testing**
