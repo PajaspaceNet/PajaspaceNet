@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on Python and automatozation Bash
+- 🔭 I’m currently working on Python and automatization Bash
       This is my business profile
   
   # 👋 Hi, I'm Paja and you are on the PajaspaceNet
