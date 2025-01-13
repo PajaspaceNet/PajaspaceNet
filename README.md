@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Python and automatization Bash
-      This is my business profile
+     This is my business profile. We manage multiple GitHub profiles for development, testing, etc., and this one is dedicated to showcasing my work and projects.
   
   # 👋 Hi, I'm Paja and you are on the PajaspaceNet
 
