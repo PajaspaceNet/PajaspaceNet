@@ -14,7 +14,7 @@
 ## 🚀 Interests
 - Automating daily tasks using Python.
 - Learning and experimenting with Machine Learning and Data Visualization.
-- I am really recomending for visit forked repo of free programming books from the all worlds [FreeProgrammingBook](https://github.com/PajaspaceNet/free-programming-books)
+- I highly recommend visiting my forked repo of free programming books from the all world! [FreeProgrammingBook](https://github.com/PajaspaceNet/free-programming-books)
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, Bash, SQL ,Java
