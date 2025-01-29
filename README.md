@@ -21,6 +21,7 @@
 - **Web Frameworks:**  Django
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Version Control:** Git, GitHub
+- **Cloud  Computing:**  AWS, Heroku,Koyeb
 - **Aplication Testing**
 
   ## 📚 Projects
