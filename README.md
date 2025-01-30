@@ -22,7 +22,7 @@
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Version Control:** Git, GitHub
 - **Cloud  Computing:**  AWS, Heroku,Koyeb
-- **Infrastructure as Code (IaC)** Terraform
+- **Infrastructure as Code (IaC):** Terraform
 - **Aplication Testing**
 
   ## 📚 Projects
