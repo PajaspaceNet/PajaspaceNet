@@ -23,6 +23,7 @@
 - **Version Control:** Git, GitHub
 - **Cloud  Computing:**  AWS, Heroku,Koyeb
 - **Infrastructure as Code (IaC):** Terraform
+-  **CICD:** Docker -  I highly recommend visiting my forked repo [Awesome-compose](https://github.com/PajaspaceNet/awesome-compose)  
 - **Aplication Testing**
 
   ## 📚 Projects
