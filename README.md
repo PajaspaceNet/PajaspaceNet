@@ -9,7 +9,7 @@
   # 👋 Hi, I'm Paja and you are on the PajaspaceNet
 
 🌟 Passionate Python developer with a love for automation.  
-💻 Currently exploring advanced  Django applications.
+💻 Currently interesting Devops - Terraform ,Jenkins, AWS
 
 ## 🚀 Interests
 - Automating daily tasks using Python.
