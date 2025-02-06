@@ -1,15 +1,17 @@
 
-## Hi there 👋
+## Hi there 👋  
 
-- 🔭 I’m currently working on DevOps staff with Bash ,Python 
-     This is my business profile.
+👋 Hi, I'm Paja! Welcome to PajaspaceNet.  
 
-  We manage multiple GitHub profiles for development, testing, etc., and this one is dedicated to showcasing my work and   projects.
-  
-   ## 👋 Hi, I'm Paja and you are on the PajaspaceNet
-
-  
+🔭 I’m currently working on DevOps automation with Bash & Python.  
 💻 Automation enthusiast | Python & Bash scripting | Learning AWS | Preparing for AWS Certified Solutions Architect – Associate (SAA-C03).🌟
+
+💼 This is my business profile.  
+We manage multiple GitHub profiles for development, testing, and production.  
+This profile is dedicated to showcasing my work and projects. 
+
+  
+
 
 ## 🚀 Interests
 - Automating daily tasks using  Bash and Python 
@@ -38,7 +40,7 @@
 - [To-Do App](https://github.com/YourUsername/todo-app): A simple web-based task manager built with Flask.
 - [File Organizer](https://github.com/YourUsername/file-organizer): A Python script to automate file management.
 - [Data Analysis](https://github.com/YourUsername/data-analysis): Analysis of COVID-19 data using Pandas and Matplotlib
--->
+
 
 ## 📖 Currently Learning
 
@@ -53,7 +55,7 @@
 
 ## ✨ Fun Fact
 I started coding to automate boring tasks at my last job, and now I can't stop building things!
-
+-->
 ## 📫 Languages
 
 
