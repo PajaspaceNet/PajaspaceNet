@@ -13,6 +13,8 @@
 
 ## 🚀 Interests
 - Automating daily tasks using Python.
+- Python programing - A fascinating  about Python is that it has a library for every problem.
+- Testing with Pytest ,Selenium ..
 - I highly recommend visiting my forked repo of free programming books from the all world! [FreeProgrammingBook](https://github.com/PajaspaceNet/free-programming-books)
 
 ## 🛠️ Skills & Tools
