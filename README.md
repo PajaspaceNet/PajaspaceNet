@@ -1,7 +1,7 @@
 
 ## Hi there 👋  
 
-👋 Hi, I'm Paja! Welcome to PajaspaceNet.  
+👋 Hi, I'm Paja! Welcome to **PajaspaceNet**.  
 
 🔭 I’m currently working on DevOps automation with Bash & Python.  
 💻 Automation enthusiast | Python & Bash scripting | Learning AWS | Preparing for AWS Certified Solutions Architect – Associate (SAA-C03).🌟
