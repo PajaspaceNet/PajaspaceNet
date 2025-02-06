@@ -26,10 +26,10 @@
 -  **CICD:** Docker -  I highly recommend visiting my forked repo [Awesome-compose](https://github.com/PajaspaceNet/awesome-compose)  
 - **Aplication Testing**
 
-  ## 📚 Projects
-  **Python Automation Script**
-  **Bash Automation Script**
-  **Different projects with Terraform ,AWS, Docker**  see pleas portfolio
+  ## 📚 Projects<br>
+  **Python Automation Script** <br>
+  **Bash Automation Script**<br>
+  **Different projects with Terraform ,AWS, Docker**  see please portfolio<br>
 
 
 <!--
