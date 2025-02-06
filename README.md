@@ -1,14 +1,14 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on Python and automatization Bash
+- 🔭 I’m currently working on DevOps staff with Bash ,Python 
      This is my business profile.
 
   We manage multiple GitHub profiles for development, testing, etc., and this one is dedicated to showcasing my work and   projects.
   
   # 👋 Hi, I'm Paja and you are on the PajaspaceNet
 
-🌟 Passionate Python developer with a love for automation.  
+🌟 Passionate Python developer with a love for Python and automation.  
 💻 Currently interesting Devops - Docker, Terraform ,Jenkins, AWS
 
 ## 🚀 Interests
