@@ -27,7 +27,10 @@
 - **Aplication Testing**
 
   ## 📚 Projects
-  **Python Automation Script** 
+  **Python Automation Script**
+  **Bash Automation Script**
+  **Different projects with Terraform ,AWS, Docker**  see pleas portfolio
+
 
 <!--
 ## 📚 Projects
@@ -42,6 +45,9 @@
 - Exploring best practices in software development.
 - Docker and containerization for Python projects.
 - Aplication Testing
+- AWS
+- Terraform
+- Etc
 
 
 ## ✨ Fun Fact
