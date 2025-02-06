@@ -6,13 +6,13 @@
 
   We manage multiple GitHub profiles for development, testing, etc., and this one is dedicated to showcasing my work and   projects.
   
-  # 👋 Hi, I'm Paja and you are on the PajaspaceNet
+   ## 👋 Hi, I'm Paja and you are on the PajaspaceNet
 
-🌟 Passionate Python developer with a love for Python and automation.  
-💻 Currently interesting Devops - Docker, Terraform ,Jenkins, AWS
+  
+💻 Automation enthusiast | Python & Bash scripting | Learning AWS | Preparing for AWS Certified Solutions Architect – Associate (SAA-C03).🌟
 
 ## 🚀 Interests
-- Automating daily tasks using Python.
+- Automating daily tasks using  Bash and Python 
 - Python programing - A fascinating  about Python is that it has a library for every problem.
 - Testing with Pytest ,Selenium ..
 - I highly recommend visiting my forked repo of free programming books from the all world! [FreeProgrammingBook](https://github.com/PajaspaceNet/free-programming-books)
