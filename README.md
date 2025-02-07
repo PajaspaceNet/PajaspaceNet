@@ -16,6 +16,7 @@ This profile is dedicated to showcasing my work and projects.
 ## 🚀 Interests
 - Automating daily tasks using  Bash and Python 
 - Python programing - A fascinating  about Python is that it has a library for every problem.
+    See pls [Awesome Pyhone](https://github.com/dylanhogg/awesome-python)
 - Testing with Pytest ,Selenium ..
 - I highly recommend visiting my forked repo of free programming books from the all world! [FreeProgrammingBook](https://github.com/PajaspaceNet/free-programming-books)
 
