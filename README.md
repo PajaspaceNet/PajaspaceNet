@@ -31,9 +31,10 @@ This profile is dedicated to showcasing my work and projects.
 - **Aplication Testing**
 
   ## 📚 Projects<br>
+  **Python Deployment - Api,FLASK** <br>
   **Python Automation Script** <br>
   **Bash Automation Script**<br>
-  **Different projects with Terraform ,AWS, Docker**  see please portfolio<br>
+  **Different projects with Ansible,Terraform ,AWS, Docker**  see please portfolio<br>
 
 
 <!--
