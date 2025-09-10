@@ -21,6 +21,10 @@ This profile is dedicated to showcasing my work and projects.
 - I highly recommend visiting my forked repo of free programming books from the all world! [FreeProgrammingBook](https://github.com/PajaspaceNet/free-programming-books)
 
 ## 🛠️ Skills & Tools
+- **Spring Boot** – developed and tested REST APIs, explored deployment patterns
+- **CI/CD** – built and studied pipelines using GitHub Actions
+-**Docker** – containerized applications and tested local deployment
+- **AWS** – familiar with ECS/Fargate, ECR, CloudWatch, IAM
 - **Languages:** Python, Bash, SQL ,Java
 - **Web Frameworks:**  Django
 - **Data Analysis:** Pandas, NumPy, Matplotlib
