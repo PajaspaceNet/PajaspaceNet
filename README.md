@@ -23,13 +23,13 @@ This profile is dedicated to showcasing my work and projects.
 ## 🛠️ Skills & Tools
 - **Spring Boot** – developed and tested REST APIs, explored deployment patterns
 - **CI/CD** – built and studied pipelines using GitHub Actions
--**Docker** – containerized applications and tested local deployment
-- **AWS** – familiar with ECS/Fargate, ECR, CloudWatch, IAM
+- **Docker** – containerized applications and tested local deployment
 - **Languages:** Python, Bash, SQL ,Java
 - **Web Frameworks:**  Django
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Version Control:** Git, GitHub
 - **Cloud  Computing:**  AWS, Heroku,Koyeb
+- **AWS** – familiar with ECS/Fargate, ECR, CloudWatch, IAM
 - **Infrastructure as Code (IaC):** Terraform
 -  **CICD:** Docker -  I highly recommend visiting my forked repo [Awesome-compose](https://github.com/PajaspaceNet/awesome-compose)  
 - **Aplication Testing**
