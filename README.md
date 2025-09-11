@@ -32,7 +32,7 @@ This profile is dedicated to showcasing my work and projects.
 - **AWS** – familiar with ECS/Fargate, ECR, CloudWatch, IAM
 - **Infrastructure as Code (IaC):** Terraform
 -  **CICD:** Docker -  Docker cheetsheets , Docker or HoWTo   [Docker Docker-Playground]( https://github.com/PajaspaceNet/docker-playground-experiment.git) <br>
-  Apliction Ansible - HowTos, CheetSheet [Ansible](https://github.com/PajaspaceNet/ansible-learning.git)  
+   Ansible - HowTos, CheetSheet [Ansible](https://github.com/PajaspaceNet/ansible-learning.git)  
 - **Aplication Testing**
 
   ## 📚 Projects<br>
