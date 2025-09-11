@@ -25,13 +25,14 @@ This profile is dedicated to showcasing my work and projects.
 - **CI/CD** – built and studied pipelines using GitHub Actions
 - **Docker** – containerized applications and tested local deployment
 - **Languages:** Python, Bash, SQL ,Java
-- **Web Frameworks:**  Django
+- **Web Frameworks:**  Django, Flask
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Version Control:** Git, GitHub
 - **Cloud  Computing:**  AWS, Heroku,Koyeb
 - **AWS** – familiar with ECS/Fargate, ECR, CloudWatch, IAM
 - **Infrastructure as Code (IaC):** Terraform
--  **CICD:** Docker -  In case of need experiments,Docker cheetsheets , Docker or HoWTo visit please  [Docker Docker-Playground]( https://github.com/PajaspaceNet/docker-playground-experiment.git)
+-  **CICD:** Docker -  Docker cheetsheets , Docker or HoWTo   [Docker Docker-Playground]( https://github.com/PajaspaceNet/docker-playground-experiment.git) <br>
+  Apliction Ansible - HowTos, CheetSheet [Ansible](https://github.com/PajaspaceNet/ansible-learning.git)  
 - **Aplication Testing**
 
   ## 📚 Projects<br>
