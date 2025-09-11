@@ -1,70 +1,69 @@
 
-## Hi there 👋  
+# 🔹 DevOps & Automation Enthusiast
 
-👋 Hi, I'm Paja! Welcome to **PajaspaceNet**.  
+Hi! I’m currently working on **DevOps automation** using Bash & Python.  
+💻 Automation enthusiast | Python & Bash scripting | Learning AWS | Preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**.
 
-🔭 I’m currently working on DevOps automation with Bash & Python.  
-💻 Automation enthusiast | Python & Bash scripting | Learning AWS | Preparing for AWS Certified Solutions Architect – Associate (SAA-C03).🌟
+This profile is dedicated to showcasing my work, projects, and tools I use.
 
-💼 This is my business profile.  
-We manage multiple GitHub profiles for development, testing, and production.  
-This profile is dedicated to showcasing my work and projects. 
-
-  
-
+---
 
 ## 🚀 Interests
-- Automating daily tasks using  Bash and Python 
-- Python programing - A fascinating  about Python is that it has a library for every problem.<br>
-    See pls [Awesome Pyhone](https://github.com/dylanhogg/awesome-python)
-- Testing with Pytest ,Selenium ..
-- I highly recommend visiting my forked repo of free programming books from the all world! [FreeProgrammingBook](https://github.com/PajaspaceNet/free-programming-books)
+- Automating daily tasks using **Bash** and **Python**  
+- Python programming – exploring libraries for real-world problems  
+- Testing with **Pytest**, **Selenium**  
+- Curated resources: [FreeProgrammingBook](https://github.com/EbookFoundation/free-programming-books) – a forked repo of free programming books worldwide  
+
+---
 
 ## 🛠️ Skills & Tools
-- **Spring Boot** – developed and tested REST APIs, explored deployment patterns
-- **CI/CD** – built and studied pipelines using GitHub Actions
-- **Docker** – containerized applications and tested local deployment
-- **Languages:** Python, Bash, SQL ,Java
-- **Web Frameworks:**  Django, Flask
-- **Data Analysis:** Pandas, NumPy, Matplotlib
-- **Version Control:** Git, GitHub
-- **Cloud  Computing:**  AWS, Heroku,Koyeb
-- **AWS** – familiar with ECS/Fargate, ECR, CloudWatch, IAM
-- **Infrastructure as Code (IaC):** Terraform
--  **CICD:** Docker -  Docker cheetsheets , Docker or HoWTo   [Docker Docker-Playground]( https://github.com/PajaspaceNet/docker-playground-experiment.git) <br>
-   Ansible - HowTos, CheetSheet [Ansible](https://github.com/PajaspaceNet/ansible-learning.git)  
-- **Aplication Testing**
 
-  ## 📚 Projects<br>
-  **Springboot-CI-CD-Pipeline**<br>
-  **Python Deployment - Api,FLASK** <br>
-  **Python Automation Script** <br>
-  **Bash Automation Script**<br>
-  **Different projects with Ansible,Terraform ,AWS, Docker**  see please portfolio<br>
+### Spring Boot / Java
+- Developed and tested **REST APIs** with Spring Boot  
+- Explored deployment patterns and best practices for microservices  
 
+### CI/CD & DevOps
+- Built and maintained pipelines with **GitHub Actions**  
+- Automated testing, building, and deployment workflows  
 
-<!--
+### Docker & Containerization
+- Containerized applications for local testing and deployment  
+- Familiar with **Docker Compose** for multi-container setups  
+
+### Programming Languages
+- **Python**, **Bash**, **SQL**, **Java** – applied in web development, automation, and data analysis  
+
+### Web Frameworks
+- **Django**, **Flask** – developed small-scale applications and APIs  
+
+### Data Analysis & Visualization
+- **Pandas**, **NumPy**, **Matplotlib** – data cleaning, processing, visualization  
+
+### Version Control
+- **Git** & **GitHub** – branching, merging, pull requests, and collaborative workflows  
+
+### Cloud Computing
+- **AWS**, **Heroku**, **Koyeb** – deployed applications using ECS/Fargate, ECR  
+- Configured monitoring/logging with **CloudWatch** and managed users & permissions with **IAM**  
+
+### Infrastructure as Code (IaC)
+- **Terraform**, **Ansible** – automated infrastructure provisioning and configurations  
+
+---
+
 ## 📚 Projects
-- [To-Do App](https://github.com/YourUsername/todo-app): A simple web-based task manager built with Flask.
-- [File Organizer](https://github.com/YourUsername/file-organizer): A Python script to automate file management.
-- [Data Analysis](https://github.com/YourUsername/data-analysis): Analysis of COVID-19 data using Pandas and Matplotlib
+- **Spring Boot CI/CD Pipeline** – built automated build & deploy workflow  
+- **Python Deployment (Flask API)** – containerized and deployed API applications  
+- **Python Automation Scripts** – daily task automation  
+- **Bash Automation Scripts** – server and system automation  
+- Various projects with **Ansible**, **Terraform**, **AWS**, **Docker** – see portfolio  
 
 
-## 📖 Currently Learning
-
-- Writing cleaner and more efficient Python code.
-- Exploring best practices in software development.
-- Docker and containerization for Python projects.
-- Aplication Testing
-- AWS
-- Terraform
-- Etc
 
 
-## ✨ Fun Fact
-I started coding to automate boring tasks at my last job, and now I can't stop building things!
--->
-## 📫 Languages
+
+
+
 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
