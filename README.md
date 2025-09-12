@@ -60,7 +60,7 @@ This profile is dedicated to showcasing my work, projects, and tools I use.
 
 
 ---
-## Basics, HowTo, Scripts, Playgrounds
+## Basics, HowTo, Scripts, Playgrounds on PajaspaceNet
 - [CICD Playground](https://github.com/PajaspaceNet/CI-CD-playground.git)     CI-CD playground Jenkins, GITHub Actions ...,GIT LAB
 - [Cloud IAC Playground](https://github.com/PajaspaceNet/Cloud-IAC-playgroound.git)    HowTo IAC /AWS - infra demo,Azure.../ , Terraform HowTo ,Cheet Sheets
 - [Ansible Playground Experiment](https://github.com/PajaspaceNet/ansible-playground-experiment.git)    This is ansible learning ,cheet sheets, moduls...
