@@ -61,12 +61,12 @@ This profile is dedicated to showcasing my work, projects, and tools I use.
 
 ---
 ## Basics, HowTo, Scripts, Playgrounds
-- [CICD Playground](https://github.com/PajaspaceNet/CI-CD-playground.git)
-- [Cloud IAC Playground](https://github.com/PajaspaceNet/Cloud-IAC-playgroound.git)
-- [Ansible Playground Experiment](https://github.com/PajaspaceNet/ansible-playground-experiment.git)
-- [Docker Playground](https://github.com/PajaspaceNet/docker-playground-experiment.git)
-- [Bash Automation Scripts](https://github.com/PajaspaceNet/Bash_Automation_Scripts.git)
-- [Python Automation Scripts](https://github.com/PajaspaceNet/PythonAutomate)
+- [CICD Playground](https://github.com/PajaspaceNet/CI-CD-playground.git)     CI-CD playground Jenkins, GITHub Actions ...,GIT LAB
+- [Cloud IAC Playground](https://github.com/PajaspaceNet/Cloud-IAC-playgroound.git)    HowTo IAC /AWS - infra demo,Azure.../ , Terraform HowTo ,Cheet Sheets
+- [Ansible Playground Experiment](https://github.com/PajaspaceNet/ansible-playground-experiment.git)    This is ansible learning ,cheet sheets, moduls...
+- [Docker Playground](https://github.com/PajaspaceNet/docker-playground-experiment.git)    How start diffenerent OS in Docker , some fun, HowTo ETC ,funnu image, different docker OS - experiments 
+- [Bash Automation Scripts](https://github.com/PajaspaceNet/Bash_Automation_Scripts.git) Bash skripts for easy, and complicated ,automation
+- [Python Automation Scripts](https://github.com/PajaspaceNet/PythonAutomate) Python skripts for easy, and complicated ,automation
 
 
 
