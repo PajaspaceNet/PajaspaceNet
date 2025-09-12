@@ -66,7 +66,7 @@ This profile is dedicated to showcasing my work, projects, and tools I use.
 - [Ansible Playground Experiment](https://github.com/PajaspaceNet/ansible-playground-experiment.git)
 - [Docker Playground](https://github.com/PajaspaceNet/docker-playground-experiment.git)
 - [Bash Automation Scripts](https://github.com/PajaspaceNet/Bash_Automation_Scripts.git)
-- [Python Automation Scripts](]https://github.com/PajaspaceNet/PythonAutomate)
+- [Python Automation Scripts](https://github.com/PajaspaceNet/PythonAutomate)
 
 
 
