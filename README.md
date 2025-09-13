@@ -53,13 +53,17 @@ This profile is dedicated to showcasing my work, projects, and tools I use.
 
 ## 📚 Projects
 
-- You can find the full list of my repositories here 👉  
+- You can find the full list of my PajaspaceNet repositories here 👉  
 [**📂Complete project overview (automatically generated via GitHub Actions)**](https://github.com/PajaspaceNet/CI-CD-playground/blob/main/repos_index.md)
 
-- **Spring Boot CI/CD Pipeline** – built automated build & deploy workflow  
-- **Python Deployment (Flask API)** – containerized and deployed API applications  
-- **Python Automation Scripts** – daily task automation  
-- **Bash Automation Scripts** – server and system automation  
+**Here are a few selected repositories:**
+
+- **Spring Boot CI/CD Pipeline** –  complete CI/CD pipeline for a Spring Boot application using GitHub Actions, Docker, and AWS, by automates the build,                                      test, Dockerization, and deployment processes.
+- **Python Deployment (Flask API)** – containerized and deployed  Test API applications  
+- **Python Automation Scripts** – daily task automation ,index of usefull libraries  
+- **Bash Automation Scripts** – server and system automation
+- **Blood Presure Monitor**  -  App for tracking blood pressure readings, adding notes, and exporting reports for effective health monitoring.
+- **Jamulus Docker Server** -  JamulusServer for musician play music on network with low latetntion
 - Various projects with **Ansible**, **Terraform**, **AWS**, **Docker** – see portfolio  
 
 
