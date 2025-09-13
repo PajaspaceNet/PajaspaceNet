@@ -52,6 +52,10 @@ This profile is dedicated to showcasing my work, projects, and tools I use.
 ---
 
 ## 📚 Projects
+
+- You can find the full list of my repositories here 👉  
+[**📂Complete project overview (automatically generated via GitHub Actions)**](https://github.com/PajaspaceNet/CI-CD-playground/blob/main/repos_index.md)
+
 - **Spring Boot CI/CD Pipeline** – built automated build & deploy workflow  
 - **Python Deployment (Flask API)** – containerized and deployed API applications  
 - **Python Automation Scripts** – daily task automation  
