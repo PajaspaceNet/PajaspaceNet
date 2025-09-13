@@ -58,12 +58,12 @@ This profile is dedicated to showcasing my work, projects, and tools I use.
 
 **Here are a few selected repositories:**
 
-- **Spring Boot CI/CD Pipeline** –  complete CI/CD pipeline for a Spring Boot application using GitHub Actions, Docker, and AWS, by automates the build,                                      test, Dockerization, and deployment processes.
-- **Python Deployment (Flask API)** – containerized and deployed  Test API applications  
-- **Python Automation Scripts** – daily task automation ,index of usefull libraries  
-- **Bash Automation Scripts** – server and system automation
-- **Blood Presure Monitor**  -  App for tracking blood pressure readings, adding notes, and exporting reports for effective health monitoring.
-- **Jamulus Docker Server** -  JamulusServer for musician play music on network with low latetntion
+- [**Spring Boot CI/CD Pipeline**](https://github.com/PajaspaceNet/Springboot-CI-CD-Pipeline) - complete CI/CD pipeline for a Spring Boot application using GitHub Actions, Docker, and AWS, by automates the build,                                      test, Dockerization, and deployment processes.
+- [**FastApi**](https://github.com/PajaspaceNet/fastapi_example)– project example fastapi SWAGER, REST API im Pythonu + FastAPI 
+- [**Python Automation Scripts**](https://github.com/PajaspaceNet/PythonAutomate) – daily task automation ,index of usefull libraries  
+- [**Bash Automation Scripts**](https://github.com/PajaspaceNet/Bash_Automation_Scripts) – server and system automation
+- [**Blood Presure Monitor**](https://github.com/PajaspaceNet/TlakMonitor)  -  App for tracking blood pressure readings, adding notes, and exporting reports for effective health monitoring.
+- [**Jamulus Docker Server**](https://github.com/PajaspaceNet/jamulus-docker-server) -  JamulusServer for musician play music on network with low latetntion
 - Various projects with **Ansible**, **Terraform**, **AWS**, **Docker** – see portfolio  
 
 
