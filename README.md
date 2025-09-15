@@ -54,7 +54,7 @@ This profile is dedicated to showcasing my work, projects, and tools I use.
 ## 📚 Projects
 
 - You can find the full list of my PajaspaceNet repositories here 👉  
-[**📂Complete project overview (automatically generated via GitHub Actions)**](https://github.com/PajaspaceNet/CI-CD-playground/blob/main/repos_index.md)
+[**📂Complete project overview (automatically generated via GitHub Actions)**](https://github.com/PajaspaceNet/CI-CD-playground/blob/main/repos.md)
 
 **Here are a few selected repositories:**
 
