@@ -75,6 +75,7 @@ This profile is dedicated to showcasing my work, projects, and tools I use.
 - [Docker Playground](https://github.com/PajaspaceNet/docker-playground-experiment.git)    How start diffenerent OS in Docker , some fun, HowTo ETC ,funnu image, different docker OS - experiments 
 - [Bash Automation Scripts](https://github.com/PajaspaceNet/Bash_Automation_Scripts.git) Bash skripts for easy, and complicated ,automation
 - [Python Automation Scripts](https://github.com/PajaspaceNet/PythonAutomate) Python skripts for easy, and complicated ,automation
+- [JBOSS Basics](https://github.com/PajaspaceNet/jboss-basic-/tree/main) About JBOSS basic instalation, configuration, HowTo,Scripts
 
 
 
