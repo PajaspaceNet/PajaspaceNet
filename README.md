@@ -1,14 +1,15 @@
 
 # 🔹 DevOps & Automation Enthusiast
 
-# Hi! 👋
+## Hi! 👋
 
-I’m a DevOps enthusiast specializing in automation with **Bash** & **Python**, and deployment/management of Java applications on **WildFly/JBoss** servers.  
+I’m a **DevOps enthusiast** specializing in automation with **Bash** & **Python**, and deployment/management of **Java applications on WildFly/JBoss** servers.  
 I focus on building reliable workflows, streamlining server operations, and creating reproducible, automated setups.
 
-💻 Automation enthusiast | Python & Bash scripting | Learning AWS | Preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**.
+💻 Automation | Python & Bash scripting | Learning AWS | Preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**
 
-This profile is dedicated to showcasing my work, projects, and tools I use.
+This profile showcases my work, projects, and the tools I use to build real-world solutions.
+
 
 ---
 
