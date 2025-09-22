@@ -81,7 +81,7 @@ This profile showcases my work, projects, and the tools I use to build real-worl
 - [Bash Automation Scripts](https://github.com/PajaspaceNet/Bash_Automation_Scripts.git) Bash skripts for easy, and complicated ,automation
 - [Python Automation Scripts](https://github.com/PajaspaceNet/PythonAutomate) Python skripts for easy, and complicated ,automation
 - [JBOSS Basics](https://github.com/PajaspaceNet/jboss-basic-/tree/main) About JBOSS basic instalation, configuration, HowTo,Scripts
-
+- [Java-EE /Java-Jakarta -> Java-Piont ](https://github.com/PajaspaceNet/java-point) About JavaJakarta/EE Basic,tools,services
 
 
 
