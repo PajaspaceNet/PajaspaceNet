@@ -64,6 +64,7 @@ This profile showcases my work, projects, and the tools I use to build real-worl
 **Here are a few selected repositories:**
 
 - [**Spring Boot CI/CD Pipeline**](https://github.com/PajaspaceNet/Springboot-CI-CD-Pipeline) - complete CI/CD pipeline for a Spring Boot application using GitHub Actions, Docker, and AWS, by automates the build,                                      test, Dockerization, and deployment processes.
+- [**Service with FAST API**](https://github.com/PajaspaceNet/JAVA_user_service_open_api/tree/main) Ukozkova sluzba  popis a nastaveni service a nastaveni yamlu 
 - [**FastApi**](https://github.com/PajaspaceNet/fastapi_example)– project example fastapi SWAGER, REST API im Pythonu + FastAPI 
 - [**Python Automation Scripts**](https://github.com/PajaspaceNet/PythonAutomate) – daily task automation ,index of usefull libraries  
 - [**Bash Automation Scripts**](https://github.com/PajaspaceNet/Bash_Automation_Scripts) – server and system automation
