@@ -78,7 +78,7 @@ This profile showcases my work, projects, and the tools I use to build real-worl
 - [CICD Playground](https://github.com/PajaspaceNet/CI-CD-playground.git)     CI-CD playground Jenkins, GITHub Actions ...,GIT LAB
 - [Cloud IAC Playground](https://github.com/PajaspaceNet/Cloud-IAC-playgroound.git)    HowTo IAC /AWS - infra demo,Azure.../ , Terraform HowTo ,Cheet Sheets
 - [Ansible Playground Experiment](https://github.com/PajaspaceNet/ansible-playground-experiment.git)    This is ansible learning ,cheet sheets, moduls...
-- [Docker Playground](https://github.com/PajaspaceNet/docker-playground-experiment.git)    How start diffenerent OS in Docker , some fun, HowTo ETC ,funnu image, different docker OS - experiments 
+- [Docker - Kubernetes Playground](https://github.com/PajaspaceNet/docker-kubernetes-playground.git)    How start diffenerent OS in Docker + Kubernetes Structure examples , some fun, HowTo ETC ... 
 - [Bash Automation Scripts](https://github.com/PajaspaceNet/Bash_Automation_Scripts.git) Bash skripts for easy, and complicated ,automation
 - [Python Automation Scripts](https://github.com/PajaspaceNet/PythonAutomate) Python skripts for easy, and complicated ,automation
 - [JBOSS Basics](https://github.com/PajaspaceNet/jboss-basic-/tree/main) About JBOSS basic instalation, configuration, HowTo,Scripts
