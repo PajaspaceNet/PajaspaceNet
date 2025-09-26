@@ -95,6 +95,8 @@ This profile showcases my work, projects, and the tools I use to build real-worl
 ![Java](https://img.shields.io/badge/Java-blue)
 ![Bash](https://img.shields.io/badge/Bash-green)
 ![SQL Badge](https://img.shields.io/badge/SQL-database-blue?logo=postgresql&logoColor=white)
+![SQL Playground](https://img.shields.io/badge/SQL%20Playground-blue?logo=postgresql&logoColor=white)
+
 
    
 
