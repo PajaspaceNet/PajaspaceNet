@@ -81,7 +81,7 @@ This profile showcases my work, projects, and the tools I use to build real-worl
 - [Docker - Kubernetes Playground](https://github.com/PajaspaceNet/docker-kubernetes-playground.git)    How start diffenerent OS in Docker + Kubernetes Structure examples , some fun, HowTo ETC ... 
 - [Bash Automation Scripts](https://github.com/PajaspaceNet/Bash_Automation_Scripts.git) Bash skripts for easy, and complicated ,automation
 - [Python Automation Scripts](https://github.com/PajaspaceNet/PythonAutomate) Python skripts for easy, and complicated ,automation
-- [JBOSS Basics](https://github.com/PajaspaceNet/jboss-basic-/tree/main) About JBOSS basic instalation, configuration, HowTo,Scripts
+- [JBOSS Basics](https://github.com/PajaspaceNet/jboss-basic-/tree/main) About JBOSS basic instalation, configuration,common issues ,HowTo,Scripts
 - [Java-EE /Java-Jakarta -> Java-Piont ](https://github.com/PajaspaceNet/java-point) About JavaJakarta/EE Basic,tools,services
 - [SQL Playgroud](https://github.com/PajaspaceNet/SQL-Playground.git) - About Sql,TypeOfDatabase,examples HowTo ...
 
